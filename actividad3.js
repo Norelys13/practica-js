@@ -5,6 +5,8 @@
 //test, demostracion, cosole.log
 
 
+
+
 // Funcion 2:
 // escribir una funcion que retorme true/false dependiente si el valor de entrada
 // corresponde a un numero capicua. 121, 444, 3223. Solo permite analizar valores 
